@@ -1,0 +1,8 @@
+s.header {
+    border: 1px solid green;
+}
+s.path {
+    text-decoration: none;
+    border: 1px solid red;
+    margin: 20px;
+}
