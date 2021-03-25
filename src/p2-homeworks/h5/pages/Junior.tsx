@@ -3,7 +3,7 @@ import React from "react";
 function Junior() {
     return (
         <div>
-            Junior
+            Junior312321
         </div>
     );
 }
